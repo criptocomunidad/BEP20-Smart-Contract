@@ -8,9 +8,9 @@ contract Token {
     // Total supply (in this case 1000 tokens)
     uint public totalSupply = 1000 * 10 ** 18;
     // Tokens Name
-    string public name = "My Token";
+    string public name = "Tru Dolar";
     // Tokens Symbol
-    string public symbol = "MTK";
+    string public symbol = "T-USD";
     // Total Decimals (max 18)
     uint public decimals = 18;
     
